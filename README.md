@@ -1,1 +1,1 @@
-DIY some classical algorithms, Just for fun!
+several OJ codes, Just for fun!
