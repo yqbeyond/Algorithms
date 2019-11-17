@@ -1,1 +1,1 @@
-several OJ codes, Just for fun!
+OJ codes!
